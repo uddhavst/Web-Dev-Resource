@@ -6,17 +6,20 @@ This repository is a collection of valuable resources to help developers master 
 
 ## 🚀 React Resources
 
-### 1. [Top 15 Goldmine GitHub Repositories to Master React](https://medium.com/@amolrai3/top-15-goldmine-github-repositories-to-master-react-36231a8a1232)
+### 1. [Top 15 Goldmine GitHub Repositories to Master React](https://medium.com/@amolrai3/top-15-goldmine-github-repositories-to-master-react-36231a8a1232)  
+*(Link opens in a new tab)*  
 A fantastic collection of repositories that will help you dive deep into React. Perfect for beginners and advanced learners.
 
 ---
 
 ## 🟢 Node.js Resources
 
-### 1. [Best Practices in Node.js](https://medium.com/@parmarshyamsinh/node-js-best-practices-along-with-sample-code-de1728a4ad99)
+### 1. [Best Practices in Node.js](https://medium.com/@parmarshyamsinh/node-js-best-practices-along-with-sample-code-de1728a4ad99)  
+*(Link opens in a new tab)*  
 This article dives into best practices in Node.js, along with sample code to help you write cleaner, efficient, and scalable Node.js applications.
 
-### 2. [Top GitHub Repositories to Learn Node.js](https://medium.com/womenintechnology/github-repositories-to-learn-node-js-f22c006297a0)
+### 2. [Top GitHub Repositories to Learn Node.js](https://medium.com/womenintechnology/github-repositories-to-learn-node-js-f22c006297a0)  
+*(Link opens in a new tab)*  
 Here are some essential GitHub repositories that provide Node.js tutorials, guides, and projects to help developers at any skill level grow their Node.js expertise.
 
 ---
